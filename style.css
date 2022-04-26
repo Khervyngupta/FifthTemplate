@@ -1,0 +1,157 @@
+.backImg{
+    width: 100%;
+    height: 900px;
+    position: relative;
+    filter: brightness(75%);
+}
+.btnn{
+    background-color: blue;
+    color: white;
+}
+.mg1{
+    margin-right: 70px;
+}
+.mg2{
+    margin-right: 30px;
+}
+.mg3{
+    margin-left: 80px;
+}
+.firstText h1{
+    position: absolute;
+    color: white;
+    top: 50%;
+    font-size: 82px;
+    left: 23%;
+}
+.secondText h1{
+    position: absolute;
+    color: white;
+    top: 68%;
+    font-size: 24px;
+    left: 9%;
+}
+.backcolor{
+    background-color: #d6d6d6;
+}
+.imgBtn button{
+    position: absolute;
+    color: white;
+    top: 76%;
+    font-size: 21px;
+    left: 42%;
+    background: none;
+    border-color:white  ;
+    border: solid 2px;
+    padding: 5px;
+}
+.imgBtn button:hover{
+    position: absolute;
+    color: black;
+    top: 76%;
+    font-size: 21x;
+    left: 42%;
+    background: white;
+    border-color:white  ;
+    border: solid 1px white;
+    padding: 5px;
+}
+.BtnTwo button{
+    color: black;
+    font-size: 24px;
+    background: none;
+    padding: 9px;
+    border: solid 2px;
+}
+.BtnTwo button:hover{
+    color: white;
+    font-size: 24px;
+    background-color: #3d2110;
+    padding: 9px;
+    border: solid 2px;
+}
+.mg11{
+    margin-top: 100px;
+}
+.conttt{
+    margin-top: 60px;
+}
+.conttt h1{
+    font-size: 52px;
+    margin-bottom: 22px;
+}
+.conttt p{
+    font-size: 20px;
+    margin-bottom: 26px;
+}
+.heading h1{
+    margin-top: 130px;
+    font-size: 52px;
+}
+.revBackBtn{
+    background-color: #e8e8e8;
+    border: solid 1px;
+    width: 120px;
+}
+.rockingChair{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.writeencont{
+    top: 10%;
+    color: white;
+    left: 5%;
+}
+.writeencont .secondTxt{
+    font-size: 24px;
+}
+.writeencont .firstTxt{
+    font-size: 22px;
+}
+.writeencont .thirdBtn button{
+    background: none;
+    color: white;
+    border: solid 1px white;
+    width: 150px;
+    height: 40px;
+}
+.sss11{
+    margin-top: 30px;
+    background-image: url('Images/rocking-chair.jpg') ;
+    background-size: cover;
+    height: 450px;
+    align-items: center;
+}
+.giveMg{
+    margin-top: 65px;
+}
+.aboutPg{
+    text-align: center;
+    margin-top: 65px;
+}
+.aboutPg .ft{
+    font-size: 55px;
+}
+.aboutPg .st{
+    font-size: 22px;
+}
+.lstrow{
+    text-align: center;
+}
+.fmg{
+    margin-top: 25px;
+}
+.limg{
+    position: relative;
+}
+.imgbackfilter{
+    filter: brightness(40%);
+}
+.limg .limgtxt{
+    position: absolute;
+    text-align: center;
+    color: white;
+    top: 50%;
+    left: 30%;
+}
